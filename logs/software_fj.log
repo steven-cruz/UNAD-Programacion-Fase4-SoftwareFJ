@@ -1,0 +1,139 @@
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Sistema inicializado en memoria.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 01 [VÁLIDA] - Registro válido de clientes y catálogo de los 3 tipos de servicios
+2026-11-16 02:48:05 | INFO     | Cliente | Cliente [CLI-001 - TechSolutions S.A.S.] (Corporativo) registrado correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Cliente [CLI-001 - TechSolutions S.A.S.] añadido a la lista interna. Total clientes: 1.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_cliente' para ID='CLI-001'.
+2026-11-16 02:48:05 | INFO     | Cliente | Cliente [CLI-002 - Mariana Restrepo] (VIP) registrado correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Cliente [CLI-002 - Mariana Restrepo] añadido a la lista interna. Total clientes: 2.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_cliente' para ID='CLI-002'.
+2026-11-16 02:48:05 | INFO     | Cliente | Cliente [CLI-003 - Andrés Felipe Gómez] (Particular) registrado correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Cliente [CLI-003 - Andrés Felipe Gómez] añadido a la lista interna. Total clientes: 3.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_cliente' para ID='CLI-003'.
+2026-11-16 02:48:05 | INFO     | Cliente | Cliente [CLI-004 - Cliente Suspendido] (Particular) registrado correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Cliente [CLI-004 - Cliente Suspendido] añadido a la lista interna. Total clientes: 4.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_cliente' para ID='CLI-004'.
+2026-11-16 02:48:05 | INFO     | ServicioReservaSala | Sala [SALA-01 - Auditorio Innovación FJ] (Auditorio, cap=80, multimedia=True) registrada correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Servicio [SALA-01 - Auditorio Innovación FJ] incorporado al catálogo. Total servicios: 1.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_servicio'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | Finalizó intento de creación de ServicioReservaSala.
+2026-11-16 02:48:05 | INFO     | ServicioReservaSala | Sala [SALA-02 - Sala Juntas Mantenimiento] (Juntas, cap=10, multimedia=False) registrada correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Servicio [SALA-02 - Sala Juntas Mantenimiento] incorporado al catálogo. Total servicios: 2.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_servicio'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | Finalizó intento de creación de ServicioReservaSala.
+2026-11-16 02:48:05 | INFO     | ServicioAlquilerEquipo | Equipo [EQ-01 - Servidor GPU NVIDIA H100] (Servidor, stock=1, seguro=True) registrado correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Servicio [EQ-01 - Servidor GPU NVIDIA H100] incorporado al catálogo. Total servicios: 3.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_servicio'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | Finalizó intento de creación de ServicioAlquilerEquipo.
+2026-11-16 02:48:05 | INFO     | ServicioAlquilerEquipo | Equipo [EQ-02 - Kit Redes Empresarial Cisco] (Kit Redes, stock=2, seguro=False) registrado correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Servicio [EQ-02 - Kit Redes Empresarial Cisco] incorporado al catálogo. Total servicios: 4.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_servicio'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | Finalizó intento de creación de ServicioAlquilerEquipo.
+2026-11-16 02:48:05 | INFO     | ServicioAsesoriaEspecializada | Asesoría [ASE-01 - Consultoría Arquitectura Cloud] (Área: Arquitectura Cloud, Nivel: Senior, Modalidad: Presencial) registrada correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Servicio [ASE-01 - Consultoría Arquitectura Cloud] incorporado al catálogo. Total servicios: 5.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_servicio'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | Finalizó intento de creación de ServicioAsesoriaEspecializada.
+2026-11-16 02:48:05 | INFO     | ServicioAsesoriaEspecializada | Asesoría [ASE-02 - Auditoría Ciberseguridad Zero-Trust] (Área: Ciberseguridad, Nivel: Arquitecto Experto, Modalidad: Remota) registrada correctamente.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Servicio [ASE-02 - Auditoría Ciberseguridad Zero-Trust] incorporado al catálogo. Total servicios: 6.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_servicio'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | Finalizó intento de creación de ServicioAsesoriaEspecializada.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 02 [INVÁLIDA] - Intento de registro de clientes con correo y teléfono inválidos
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'registrar_cliente': [ERR_DATOS_INVALIDOS] El correo electrónico no tiene un formato válido (usuario@dominio.ext). (Contexto: {'campo': 'email', 'valor': 'correo-sin-arroba.com'})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_cliente' para ID='CLI-ERR1'.
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'registrar_cliente': [ERR_DATOS_INVALIDOS] El teléfono solo puede contener dígitos, espacios, guiones y un '+' opcional al inicio. (Contexto: {'campo': 'telefono', 'valor': '300ABC45'})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_cliente' para ID='CLI-ERR2'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 03 [INVÁLIDA] - Intento de registro con parámetros obligatorios vacíos o nulos
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'registrar_cliente': [ERR_PARAMETROS_FALTANTES] El identificador de la entidad es obligatorio y no puede estar vacío. (Contexto: {'campo': 'id_entidad', 'valor': ''})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_cliente' para ID=''.
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'registrar_cliente': [ERR_PARAMETROS_FALTANTES] El campo 'nombre' es obligatorio y no puede ser nulo. (Contexto: {'campo': 'nombre', 'valor': None})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_cliente' para ID='CLI-ERR3'.
+2026-11-16 02:48:05 | ERROR    | SimuladorSoftwareFJ | Error controlado al instanciar ServicioAsesoriaEspecializada: [ERR_PARAMETROS_FALTANTES] El campo 'area_especialidad' es obligatorio y no puede estar vacío. (Contexto: {'campo': 'area_especialidad', 'valor': ''})
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | Finalizó intento de creación de ServicioAsesoriaEspecializada.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 04 [INVÁLIDA] - Creación incorrecta de servicios (capacidad negativa y tarifa <= 0)
+2026-11-16 02:48:05 | ERROR    | SimuladorSoftwareFJ | Error controlado al instanciar ServicioReservaSala: [ERR_DATOS_INVALIDOS] La capacidad para una sala tipo 'Juntas' debe estar entre 1 y 40 personas. (Contexto: {'campo': 'capacidad_personas', 'valor': -10, 'tipo_sala': 'Juntas'})
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | Finalizó intento de creación de ServicioReservaSala.
+2026-11-16 02:48:05 | ERROR    | SimuladorSoftwareFJ | Error controlado al instanciar ServicioAlquilerEquipo: [ERR_DATOS_INVALIDOS] La tarifa base del servicio debe ser mayor a cero. (Contexto: {'campo': 'tarifa_base', 'valor': 0.0})
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | Finalizó intento de creación de ServicioAlquilerEquipo.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 05 [VÁLIDA] - Reserva de Sala (cálculo polimórfico y sobrecarga simple)
+2026-11-16 02:48:05 | INFO     | Cliente | Reserva [RES-001] agregada al historial del cliente [CLI-001].
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-001] creada en estado PENDIENTE | Cliente: CLI-001 | Servicio: SALA-01 | Duración: 3.00 h
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Reserva [RES-001] registrada en memoria. Total reservas: 1.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-001'.
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-001] confirmada correctamente para cliente [CLI-001].
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'confirmar_reserva' para ID='RES-001'.
+2026-11-16 02:48:05 | INFO     | ServicioReservaSala | Costo calculado para servicio [SALA-01]: base=675000.00, desc=0.00%, imp=0.00%, extras=0.00 -> total=675000.00
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-001] procesada exitosamente. Total facturado: $675000.00
+2026-11-16 02:48:05 | INFO     | Reserva | Finalizó intento de procesamiento de reserva [RES-001] (estado actual: PROCESADA).
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'procesar_reserva' para ID='RES-001'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 06 [VÁLIDA] - Alquiler de Equipo (sobrecarga con IVA, descuento VIP y cargo extra)
+2026-11-16 02:48:05 | INFO     | Cliente | Reserva [RES-002] agregada al historial del cliente [CLI-002].
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-002] creada en estado PENDIENTE | Cliente: CLI-002 | Servicio: EQ-01 | Duración: 4.00 h
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Reserva [RES-002] registrada en memoria. Total reservas: 2.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-002'.
+2026-11-16 02:48:05 | INFO     | ServicioAlquilerEquipo | Asignadas 1 unidad(es) de [EQ-01]. Stock restante: 0.
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-002] confirmada correctamente para cliente [CLI-002].
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'confirmar_reserva' para ID='RES-002'.
+2026-11-16 02:48:05 | INFO     | ServicioAlquilerEquipo | Costo calculado para servicio [EQ-01]: base=672000.00, desc=10.00%, imp=19.00%, extras=35000.00 -> total=754712.00
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-002] procesada exitosamente. Total facturado: $754712.00
+2026-11-16 02:48:05 | INFO     | Reserva | Finalizó intento de procesamiento de reserva [RES-002] (estado actual: PROCESADA).
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'procesar_reserva' para ID='RES-002'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 07 [VÁLIDA] - Asesoría Especializada presencial (factor Senior + cargo logístico)
+2026-11-16 02:48:05 | INFO     | Cliente | Reserva [RES-003] agregada al historial del cliente [CLI-001].
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-003] creada en estado PENDIENTE | Cliente: CLI-001 | Servicio: ASE-01 | Duración: 5.00 h
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Reserva [RES-003] registrada en memoria. Total reservas: 3.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-003'.
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-003] confirmada correctamente para cliente [CLI-001].
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'confirmar_reserva' para ID='RES-003'.
+2026-11-16 02:48:05 | INFO     | ServicioAsesoriaEspecializada | Costo calculado para servicio [ASE-01]: base=990000.00, desc=5.00%, imp=19.00%, extras=0.00 -> total=1119195.00
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-003] procesada exitosamente. Total facturado: $1119195.00
+2026-11-16 02:48:05 | INFO     | Reserva | Finalizó intento de procesamiento de reserva [RES-003] (estado actual: PROCESADA).
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'procesar_reserva' para ID='RES-003'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 08 [INVÁLIDA] - Intento de reserva sobre equipo sin stock y sala no disponible
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'crear_reserva': [ERR_SERVICIO_NO_DISPONIBLE] El servicio [EQ-01 - Servidor GPU NVIDIA H100] no está disponible. (Contexto: {'id_reserva': 'RES-ERR-EQ', 'id_servicio': 'EQ-01'})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-ERR-EQ'.
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'crear_reserva': [ERR_SERVICIO_NO_DISPONIBLE] El servicio [SALA-02 - Sala Juntas Mantenimiento] no está disponible. (Contexto: {'id_reserva': 'RES-ERR-SAL', 'id_servicio': 'SALA-02'})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-ERR-SAL'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 09 [INVÁLIDA] - Reserva con cliente inexistente (encadenamiento), cliente inactivo y duración 0
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'crear_reserva': [ERR_RESERVA_INCORRECTA] No se pudo crear la reserva [RES-ERR-CLI] por cliente o servicio inválido. (Contexto: {'id_reserva': 'RES-ERR-CLI', 'id_cliente': 'CLI-999', 'id_servicio': 'SALA-01'}) | Causa raíz: [ERR_DATOS_INVALIDOS] No existe cliente con identificador 'CLI-999'. (Contexto: {'entidad': 'cliente', 'id': 'CLI-999'})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-ERR-CLI'.
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'crear_reserva': [ERR_RESERVA_INCORRECTA] No se puede crear reserva para el cliente inactivo [CLI-004]. (Contexto: {'id_reserva': 'RES-ERR-INA', 'id_cliente': 'CLI-004'})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-ERR-INA'.
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'crear_reserva': [ERR_RESERVA_INCORRECTA] La duración de la reserva debe ser mayor a cero. (Contexto: {'id_reserva': 'RES-ERR-DUR', 'duracion': 0.0})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-ERR-DUR'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 10 [INVÁLIDA] - Procesamiento con descuento > 100% e impuesto negativo (encadenamiento)
+2026-11-16 02:48:05 | INFO     | Cliente | Reserva [RES-004] agregada al historial del cliente [CLI-003].
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-004] creada en estado PENDIENTE | Cliente: CLI-003 | Servicio: ASE-02 | Duración: 2.00 h
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Reserva [RES-004] registrada en memoria. Total reservas: 4.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-004'.
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-004] confirmada correctamente para cliente [CLI-003].
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'confirmar_reserva' para ID='RES-004'.
+2026-11-16 02:48:05 | ERROR    | Reserva | Error de cálculo al procesar reserva [RES-004]: [ERR_CALCULO_INCONSISTENTE] El valor de 'porcentaje_descuento' debe estar entre 0 y 100 (o 0.0 y 1.0). (Contexto: {'campo': 'porcentaje_descuento', 'valor': 150.0})
+2026-11-16 02:48:05 | INFO     | Reserva | Finalizó intento de procesamiento de reserva [RES-004] (estado actual: CONFIRMADA).
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'procesar_reserva': [ERR_RESERVA_INCORRECTA] No fue posible procesar la reserva [RES-004] debido a un cálculo inválido. (Contexto: {'id_reserva': 'RES-004', 'id_servicio': 'ASE-02'}) | Causa raíz: [ERR_CALCULO_INCONSISTENTE] El valor de 'porcentaje_descuento' debe estar entre 0 y 100 (o 0.0 y 1.0). (Contexto: {'campo': 'porcentaje_descuento', 'valor': 150.0})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'procesar_reserva' para ID='RES-004'.
+2026-11-16 02:48:05 | ERROR    | Reserva | Error de cálculo al procesar reserva [RES-004]: [ERR_CALCULO_INCONSISTENTE] El valor de 'tasa_impuesto' debe estar entre 0 y 100 (o 0.0 y 1.0). (Contexto: {'campo': 'tasa_impuesto', 'valor': -0.19})
+2026-11-16 02:48:05 | INFO     | Reserva | Finalizó intento de procesamiento de reserva [RES-004] (estado actual: CONFIRMADA).
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'procesar_reserva': [ERR_RESERVA_INCORRECTA] No fue posible procesar la reserva [RES-004] debido a un cálculo inválido. (Contexto: {'id_reserva': 'RES-004', 'id_servicio': 'ASE-02'}) | Causa raíz: [ERR_CALCULO_INCONSISTENTE] El valor de 'tasa_impuesto' debe estar entre 0 y 100 (o 0.0 y 1.0). (Contexto: {'campo': 'tasa_impuesto', 'valor': -0.19})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'procesar_reserva' para ID='RES-004'.
+2026-11-16 02:48:05 | INFO     | ServicioAsesoriaEspecializada | Costo calculado para servicio [ASE-02]: base=560000.00, desc=0.00%, imp=19.00%, extras=0.00 -> total=666400.00
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-004] procesada exitosamente. Total facturado: $666400.00
+2026-11-16 02:48:05 | INFO     | Reserva | Finalizó intento de procesamiento de reserva [RES-004] (estado actual: PROCESADA).
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'procesar_reserva' para ID='RES-004'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 11 [INVÁLIDA] - Operaciones ilegales por estado (cancelar procesada, procesar pendiente, duplicados)
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'cancelar_reserva': [ERR_OPERACION_NO_PERMITIDA] No es posible cancelar la reserva [RES-001] porque su estado es 'PROCESADA'. (Contexto: {'id_reserva': 'RES-001', 'estado_actual': 'PROCESADA'})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'cancelar_reserva' para ID='RES-001' (resultado=False).
+2026-11-16 02:48:05 | INFO     | Cliente | Reserva [RES-005] agregada al historial del cliente [CLI-003].
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-005] creada en estado PENDIENTE | Cliente: CLI-003 | Servicio: EQ-02 | Duración: 2.00 h
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Reserva [RES-005] registrada en memoria. Total reservas: 5.
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'crear_reserva' para ID='RES-005'.
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'procesar_reserva': [ERR_OPERACION_NO_PERMITIDA] Solo se pueden procesar reservas en estado 'CONFIRMADA' (actual: 'PENDIENTE'). (Contexto: {'id_reserva': 'RES-005', 'estado_actual': 'PENDIENTE'})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'procesar_reserva' para ID='RES-005'.
+2026-11-16 02:48:05 | ERROR    | SistemaSoftwareFJ | Error controlado en 'registrar_cliente': [ERR_OPERACION_NO_PERMITIDA] Ya existe un cliente registrado con el identificador 'CLI-001'. (Contexto: {'id_cliente': 'CLI-001'})
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'registrar_cliente' para ID='CLI-001'.
+2026-11-16 02:48:05 | INFO     | SimuladorSoftwareFJ | >>> INICIO SIMULACIÓN 12 [VÁLIDA] - Confirmación y cancelación válida con restitución de stock y reporte final
+2026-11-16 02:48:05 | INFO     | ServicioAlquilerEquipo | Asignadas 1 unidad(es) de [EQ-02]. Stock restante: 1.
+2026-11-16 02:48:05 | INFO     | Reserva | Reserva [RES-005] confirmada correctamente para cliente [CLI-003].
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'confirmar_reserva' para ID='RES-005'.
+2026-11-16 02:48:05 | INFO     | ServicioAlquilerEquipo | Liberadas 1 unidad(es) de [EQ-02]. Stock actual: 2.
+2026-11-16 02:48:05 | WARNING  | Reserva | Reserva [RES-005] cancelada. Motivo: Reprogramación de mantenimiento de red
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Fin de operación 'cancelar_reserva' para ID='RES-005' (resultado=True).
+2026-11-16 02:48:05 | INFO     | SistemaSoftwareFJ | Reporte consolidado de estado generado correctamente.
